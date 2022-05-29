@@ -1,1 +1,1 @@
-# blogprog.github.io
+# プログラミングブログを開始
